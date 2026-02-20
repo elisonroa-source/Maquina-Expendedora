@@ -1,0 +1,11 @@
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\bin\Debug\Maquina_Victor.exe.config
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\bin\Debug\Maquina_Victor.exe
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\bin\Debug\Maquina_Victor.pdb
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\obj\Debug\Maquina_Victor.csproj.AssemblyReference.cache
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\obj\Debug\Maquina_Victor.Form1.resources
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\obj\Debug\Maquina_Victor.Properties.Resources.resources
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\obj\Debug\Maquina_Victor.csproj.GenerateResource.cache
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\obj\Debug\Maquina_Victor.csproj.CoreCompileInputs.cache
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\obj\Debug\Maquina_Victor.exe
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\obj\Debug\Maquina_Victor.pdb
+C:\Users\el_me\source\repos\Maquina_Victor\Maquina_Victor\obj\Debug\Maquina_Victor.Form2.resources
